@@ -1,5 +1,7 @@
-## Ola, eu sou Ezequiel Almeida! Seja bem vindo! 😁
-
+<div align="center">
+<h1>Ola, eu sou Ezequiel Almeida! Seja bem vindo! 😁</h1>
+</div>
+<br>
 <div align="center">
   <a href="https://github.com/ezequielwish">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezequielwish&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
