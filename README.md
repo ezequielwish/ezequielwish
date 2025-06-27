@@ -13,6 +13,9 @@
 </div>
 
   ---
+
+### 🙋‍♂️ About me
+  
 🌱 Currently focused on projects using **React, Flask, and Node.js**  
 🔍 Interested in **web development**, **automations**, and **cybersecurity**  
 🧠 Always learning and improving my skills
