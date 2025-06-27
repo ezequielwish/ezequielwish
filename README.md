@@ -10,13 +10,14 @@
       <img align="center" alt="Eze-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Eze-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </div>
+</div>
 
   ---
 🌱 Currently focused on projects using **React, Flask, and Node.js**  
 🔍 Interested in **web development**, **automations**, and **cybersecurity**  
 🧠 Always learning and improving my skills
   
-  ### 🎓 Education
+### 🎓 Education
   
 🎓 Bachelor's Degree in **Systems Analysis and Development**  
 📘 Postgraduate Studies in **Machine Learning** *(in progress)*
@@ -28,7 +29,7 @@
 🛠️ **Databases:** MySQL, SQLserver
 ☁️ **DevOps / Cloud:** Docker, Railway, Render, Vercel  
 🧪 **Testing:** Jest, Pytest  
-</div>
+
 
  ---
 <br>
