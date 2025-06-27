@@ -1,6 +1,7 @@
 <div align="center">
+  
   <h1>Hello, World! I'm Ezequiel. Welcome to my Github 😁</h1>
-  <h3 align="center">A Full Stack Developer passionate about building smart and scalable solutions</h3>
+  <h3 align="center">A Brazilian Full Stack Developer passionate about building smart and scalable solutions</h3>
     <div align="center" style="display: inline_block"><br>
       <img align="center" alt="Eze-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Eze-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
