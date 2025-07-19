@@ -27,7 +27,7 @@
   
 ### 🚀 Tech Stack
 
-⚛️ **Frontend:** React, Next.js, HTML, CSS, Tailwind, JavaScript/TypeScript  
+⚛️ **Frontend:** React, HTML, CSS, Tailwind, JavaScript/TypeScript  
 🔧 **Backend:** Node.js, Express, Flask, Python  
 🛠️ **Databases:** MySQL, SQLserver
 ☁️ **DevOps / Cloud:** Docker, Railway, Render, Vercel  
