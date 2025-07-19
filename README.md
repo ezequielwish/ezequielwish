@@ -30,6 +30,7 @@
 ⚛️ **Frontend:** React, HTML, CSS, Tailwind, JavaScript/TypeScript  
 🔧 **Backend:** Node.js, Express, Flask, Python  
 🛠️ **Databases:** MySQL, SQLserver
+<br>
 ☁️ **DevOps / Cloud:** Docker, Railway, Render, Vercel  
 🧪 **Testing:** Jest, Pytest  
 
