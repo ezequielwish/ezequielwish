@@ -25,12 +25,12 @@
 ### 🎓 Education
   
 🎓 Bachelor's Degree in **Systems Analysis and Development**  
-📘 Postgraduate Studies in **Machine Learning** *(in progress)*
+📘 Postgraduate Studies in **Machine Learning**
   
 ### 🚀 Tech Stack
 
 ⚛️ **Frontend:** React.js, Next.js, HTML, CSS, Tailwind, JavaScript/TypeScript  
-🔧 **Backend:** Node.js, Express, Flask, Python  
+🔧 **Backend:** Node.js, Express, Flask, Python, Java, Spring Boot.
 🛠️ **Databases:** MySQL, SQLite, MongoDB.
 
 
